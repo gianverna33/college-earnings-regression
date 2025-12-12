@@ -37,8 +37,7 @@ Two linear regression models were constructed:
 - Institution type and gender composition had minor effects on earnings  
 - Log transformation improved model fit and reduced heteroskedasticity, making inference more reliable  
 
-## Visualizations
+## Visualizations 
 - Residuals vs. Fitted plots for both raw and log earnings models  
 - Tableau dashboard with program-level and institution-level earnings: https://public.tableau.com/app/profile/gian.verna5813/viz/CollegeProgramEarnings/Dashboard1
-
 
