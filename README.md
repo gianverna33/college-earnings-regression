@@ -22,7 +22,7 @@ Two linear regression models were constructed:
 1. **Model 1 (Raw Earnings):**  
    - Outcome: Median earnings after four years  
    - Predictors: Program name (categorical with treatment coding), admission rate, institution type, and percent male  
-   - Standard errors clustered by institution (`OPEID6`) to account for within-institution correlation  
+   - Standard errors clustered by institution to account for within-institution correlation  
 
 2. **Model 2 (Log Earnings):**  
   - Same as Model 1 but with log-transformed earnings to reduce skewness and heteroskedasticity  
