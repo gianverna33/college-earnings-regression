@@ -10,7 +10,7 @@ The purpose of this project is to analyze the effect of college program choice o
   - Median_Earnings_Year_4 – Median earnings four years after graduation  
   - Admission_Rate – Percentage of students admitted  
   - Institution_Type – Public or private  
-  - Percent_Male_Year_` – Gender composition of graduates  
+  - Percent_Male_Year_4 – Gender composition of graduates  
 - **Preprocessing (after initial cleaning using Power Query):**  
   - Verifyed that there were no programs which appeared less than 50 times
   - Filtered out rows with missing admission rates  
