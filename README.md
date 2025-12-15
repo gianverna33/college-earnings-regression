@@ -39,5 +39,5 @@ Two linear regression models were constructed:
 
 ## Visualizations 
 - Residuals vs. Fitted plots for both raw and log earnings models  
-- Tableau dashboard with program-level and institution-level earnings: https://public.tableau.com/app/profile/gian.verna5813/viz/CollegeProgramEarnings/Dashboard1
+- Tableau dashboard displaying earnings by state, intsitution, and program: https://public.tableau.com/app/profile/gian.verna5813/viz/CollegeProgramEarnings/Dashboard1
 
